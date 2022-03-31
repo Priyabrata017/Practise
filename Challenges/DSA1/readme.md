@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 ### Step 3. To encode the video 
 ```
-python encoder.py <path_of_the_video>
+python encoder.py <path_of_the_video> <output_path>
 ```
 ### Step 4. To decode the video 
 ```
