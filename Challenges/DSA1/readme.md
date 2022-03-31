@@ -6,7 +6,7 @@
 git clone https://github.com/Priyabrata017/Practise/
 ```
 ```
-cd 
+cd DSA1
 ```
 ```
 git checkout master
@@ -16,11 +16,12 @@ git checkout master
 ### Step 2. Install the requirements. Open command prompt. cd <the_path_where_you_have_cloned>. Then write the following command
 ```
 pip install -r requirements.txt
-
+```
 ### Step 3. To encode the video 
 ```
 python encoder.py <path_of_the_video>
-
+```
 ### Step 4. To decode the video 
 ```
 python decoder.py <path_of_the_video>
+```
